@@ -1,6 +1,6 @@
 # Food-Habits-Tendencies
 [Paper Version]()
-<img src="images/FoodHabits120.gif" width="1100px" height="600px"/> 
+<img src="images/FoodHabits120.gif" width="1100px" height="600px"/> <img src="images/FoodMapChange120.gif" width="1100px" height="600px" />
 Changes in food consumption per years.
 
 ## Data

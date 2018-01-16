@@ -1,7 +1,7 @@
 # Food-Habits-Tendencies
 [Paper Version]()
 
-<img src="images/FoodHabits120.gif" width="400px"/> 
+<img src="images/FoodHabits120.gif" width="1200px" height="800px"/> 
 Changes in food consumption per years.
 
 ## Data
@@ -9,7 +9,7 @@ Main dataset used in this project was taken from [OECD website] (http://www.oecd
 
 ## Approach
 
-Analysing nutritional habits requires unsupervised approach, so we used machine learning method - <b>clustering<b>. <br>
+Analysing nutritional habits requires unsupervised approach, so we used machine learning method - <b>clustering</b>. <br>
 Namely, k-means and DBSCAN algorithms. Which  We also applied PCA and t-SNE dimensionality reduction to visualize high-dimensional data. 
 
 ## Results

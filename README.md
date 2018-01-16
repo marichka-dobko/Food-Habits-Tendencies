@@ -1,6 +1,6 @@
 # Food-Habits-Tendencies
 [Paper Version]()
-<img src="images/FoodHabits120.gif" width="1100px" height="600px"/> <img src="images/FoodMapChange120.gif" width="1100px" height="600px" />
+<img src="images/FoodHabits120.gif" width="1100px" height="600px"/> 
 Changes in food consumption per years.
 
 ## Data
@@ -12,6 +12,9 @@ Analysing nutritional habits requires unsupervised approach, so we used machine 
 Namely, k-means and DBSCAN algorithms. We also applied PCA and t-SNE dimensionality reduction to visualize high-dimensional data. 
 
 ## Results
+K-means clustering 1990-2016:
+<img src="images/FoodMapChange120.gif" width="1100px" height="600px"/> 
+
 Results of PCA on k-means clustered data during 20013-2016: 
 <img src="images/PCA-on-clustered-kmeans.png" width="600px" height="400px"/> 
 

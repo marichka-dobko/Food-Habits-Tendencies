@@ -18,7 +18,7 @@ K-means clustering 1990-2016:
 <img src="images/FoodMapChange120.gif" width="1000px" height="450px"/> 
 
 Results of PCA on k-means clustered data during 2013-2016: <br>
-<img src="images/PCA-on-clustered-kmeans.png" width="700px" height="500px"/> 
+<img src="images/PCA-on-clustered-kmeans.png" width="700px" height="500px" align="center"/> 
 
 Built model shows direction in which country is moving in coordinates of nutritional features from one nutrition-habit group to another and prognosis  of  future nutritional habits state. Thus, this approach can be used by food production companies to decide in which country to invest in which commodity based on its food habits.<br>
 Now these results can be interpreted in various other applications of chosen problem.
